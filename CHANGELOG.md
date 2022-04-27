@@ -7,4 +7,4 @@ Initial Release.
 **Added:**
 
 - Help Menu Reworked
-- Changelog in-game
+- Added Update Logs in-game
