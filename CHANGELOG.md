@@ -6,5 +6,5 @@ Initial Release.
 
 **Added:**
 
--Help Menu Reworked
--Changelog in-game
+- Help Menu Reworked
+- Changelog in-game
