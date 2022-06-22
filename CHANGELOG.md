@@ -13,12 +13,13 @@
 - Recreated the Main Menu & Vehicle Menu.
 
 **New Stuff** 
+- Added New Gamemode for Private Lobbies HeadShot Driveby, HeadShot Footfight
 - Reworked the clothing script.
 - Added some really ***:fire:*** billboards. *(thanks to @SaxFaxNoddy#6012.)*
 - Added a way to prevent spawn camps.
 - Added a small kill-feed.
 - Added player count for each lobby.
-- Kills and Deaths in Ramps , KOTH will not effect Global Scoreboard.
+- Kills and Deaths in Ramps , KOTH, GunGame will not effect Global Scoreboard.
 - Moved a lot of Commands to F1 Menu.
 - Rewrote the private lobby system.
 - Added peds for the top 3 players last season.
