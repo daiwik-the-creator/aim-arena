@@ -1,8 +1,6 @@
-# Change Log
+# Aim Arena
 
-# Jun. 25, 2022
-
-Aim Arena.
+## Jun. 25, 2022
 
 **What's New?**
 
