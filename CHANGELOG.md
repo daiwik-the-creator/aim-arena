@@ -1,10 +1,39 @@
 # Change Log
 
-# v1 - Apr. 27, 2022
+# Jun. 25, 2022
 
-Initial Release.
+Aim Arena.
 
-**Added:**
+**What's New?**
 
-- Help Menu Reworked
-- Added Update Logs in-game
+**UI Changes**
+-New Loading Screen.
+-New HUD.
+-New KDR Counter.
+-A fresh new user-interface for the entire server. (Inventory, Radio, Chat, Vehicle Control.)
+-Reworked the XP Leader-board to show Kills, Deaths & KDR.
+-Recreated the Main Menu & Vehicle Menu.
+
+**New Stuff** 
+-Reworked the clothing script.
+-Added some really ***:fire:*** billboards. *(thanks to @SaxFaxNoddy#6012.)*
+-Added a way to prevent spawn camps.
+-Added a small kill-feed.
+-Added player count for each lobby.
+-Kills and Deaths in Ramps , KOTH will not effect Global Scoreboard.
+-Moved a lot of Commands to F1 Menu.
+-Rewrote the private lobby system.
+-Added peds for the top 3 players last season.
+-Added an option to change RGB colors in the Vehicle Menu.
+-You can save your vehicles using the F1 Radial Menu.
+-Play on your own Time & Weather using the /time and /weather commands.
+-Added Auto Re-spawn on Death.
+-Added 7 New Guns.
+-Added new emotes.
+
+**New Donator Perks**
+-Use anything with a URL as a weapon skin.  *(works only for the vanilla weapons.)*
+-Added more maps for Private Lobbies.
+-Added /loadout to access all weapons in Private Lobbies.
+-Your name will now stand out in the kill-feed. 
+-Added new Imports.
