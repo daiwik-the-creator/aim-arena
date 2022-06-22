@@ -8,6 +8,7 @@ Aim Arena.
 
 **UI Changes**
 -New Loading Screen.
+
 -New HUD.
 -New KDR Counter.
 -A fresh new user-interface for the entire server. (Inventory, Radio, Chat, Vehicle Control.)
