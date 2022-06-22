@@ -13,7 +13,6 @@
 - Recreated the Main Menu & Vehicle Menu.
 
 **New Stuff** 
-- Added New Gamemode for Private Lobbies HeadShot Driveby, HeadShot Footfight
 - Reworked the clothing script.
 - Added some really ***:fire:*** billboards. *(thanks to @SaxFaxNoddy#6012.)*
 - Added a way to prevent spawn camps.
@@ -31,16 +30,18 @@
 - Added new emotes.
 
 **New Donator Perks**
+- Added new gamemodes for Private Lobbies.
 - Use anything with a URL as a weapon skin.  *(works only for the vanilla weapons.)*
 - Added more maps for Private Lobbies.
 - Added /loadout to access all weapons in Private Lobbies.
 - Your name will now stand out in the kill-feed. 
 - Added new Imports.
+- Added new Boosters.
 
 **Server Changes**
 - Buffed Joints & Oxy.
 - Changed Revolter Handling.
-- You now loose 500XP on death, increasing the overall challenge of being on top of the leader-board. 
+- You now loose 300XP on death, increasing the overall challenge of being on top of the leader-board. 
 - Balanced damage for a few weapons.
 - Added more maps for foot-fights.
 - Player is now pushed out of the car after dying.
@@ -50,7 +51,8 @@
 - You now receive Armor, Oxy & Joints in Footfights.
 - Made changes to spawn.
 - Added a delay in player blips.
-- Made a few changes in KOTH.
+- Added new weapons in KOTH.
+- Added new supplies in KOTH.
 - Increased overall Weapon Range.
 - Made a few changes in F1 Benny's.
 
