@@ -11,6 +11,7 @@
 - A fresh new user-interface for the entire server. (Inventory, Radio, Chat, Vehicle Control.)
 - Reworked the XP Leader-board to show Kills, Deaths & KDR.
 - Recreated the Main Menu & Vehicle Menu.
+- Added Personal Stats, Private Lobbies & Info to Main Menu.
 
 **New Stuff** 
 - Reworked the clothing script.
@@ -23,7 +24,7 @@
 - Rewrote the private lobby system.
 - Added peds for the top 3 players last season.
 - Added an option to change RGB colors in the Vehicle Menu.
-- You can save your vehicles using the F1 Radial Menu.
+- You can save your vehicles using the F1 Radial Menu. *(No need to modify vehicles everytime you connect.)*
 - Play on your own Time & Weather using the /time and /weather commands.
 - Added Auto Re-spawn on Death.
 - Added 7 New Guns.
@@ -68,5 +69,3 @@
 
 
 And lastly, the most awaited game-mode is here - ***Gun Game.***
-
-I edited this
