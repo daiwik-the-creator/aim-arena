@@ -1,5 +1,22 @@
 # Aim Arena
 
+## Jul. 18, 2022
+
+**What's New?**
+
+**UI Changes**
+- Fixed some of resolution issues with the UI.
+
+**New Stuff**
+- You can now download assets using the Asset Downloader in the Main Menu.
+![image](https://user-images.githubusercontent.com/104344893/179551560-63f6ff8e-26aa-455b-97e4-a73dc75f6cd6.png)
+- Added option to Enable Stat Protection in Private Lobbies.
+
+**Fixes**
+- Fixed Gun Game Spawns.
+- Fixed Gun Game Auto Reload. 
+
+
 ## Jun. 25, 2022
 
 **What's New?**
